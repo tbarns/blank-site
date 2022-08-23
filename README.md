@@ -3,6 +3,9 @@
 This is a blank website to use as a placeholder for any application that is yet to be complete.
 
 # Usage
+https://tbarns.github.io/blank-site/
+
+
 <img src="BLANK.png" alt="Block text on green background saying This application does not exist... YET!  Stay tuned!!">
 
 # Credits
